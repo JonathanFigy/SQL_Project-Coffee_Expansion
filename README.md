@@ -74,5 +74,5 @@ The recommended top three cities for new store openings are:
 2. Second highest total customers (68)
 3. Average rent per customer is reasonable (330)
 
-Also, Chennai being the city with the second highest toal revenue and affordable rent (under 500) offers a good opportunity as well. 
+**Also, with Chennai having the second highest toal revenue and average sale per customer along with affordable rent (under 500) offers a good opportunity as well.**
 ---
