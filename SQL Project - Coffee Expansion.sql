@@ -1,4 +1,5 @@
 -- Data Analysis
+-- Viewing the various tables
 Select * From city;
 Select * From customers;
 Select * From products;
